@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:52:45.062042+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-12-12T16:15:52.061848+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 16时15分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -40,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 15时52分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 16时15分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -73,9 +74,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时15分]"
         },
         {
           "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
@@ -126,6 +127,28 @@
           "time_info": "[12时22分 ~ 13时01分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时15分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时15分]"
+        },
+        {
           "title": "白宫：特朗普跟中日都能搞好关系",
           "url": "https://www.toutiao.com/trending/7582430336525828123/",
           "source": "今日头条",
@@ -136,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 14时16分]"
+        },
+        {
+          "title": "学者：特朗普想在中日博弈中两头渔利",
+          "url": "https://www.toutiao.com/trending/7582834886818401855/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时15分]"
         },
         {
           "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
@@ -162,17 +197,6 @@
           "time_info": "[11时49分 ~ 12时22分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
           "url": "https://www.zhihu.com/question/1982382778923365984",
           "source": "知乎",
@@ -184,17 +208,6 @@
           "time_info": "10时35分"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "美国总统特朗普：关于泰国和柬埔寨问题，我得打几个电话。",
           "url": "https://flash.jin10.com/detail/20251212093208416800",
           "source": "金十数据",
@@ -204,17 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "学者：特朗普想在中日博弈中两头渔利",
-          "url": "https://www.toutiao.com/trending/7582834886818401855/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         }
       ]
     },
@@ -256,8 +258,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 15时52分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 16时15分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -288,7 +290,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -340,8 +342,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 15时52分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 16时15分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -361,7 +363,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
