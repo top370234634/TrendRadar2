@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T19:10:49.863735+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-12-12T19:52:55.677095+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,37 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时20分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[13时20分 ~ 19时52分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时52分 ~ 19时52分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时52分 ~ 19时52分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -46,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时35分 ~ 19时10分]"
+          "appearance_count": 20,
+          "time_info": "[10时35分 ~ 19时52分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -61,30 +87,6 @@
           "time_info": "[10时35分 ~ 15时02分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时52分 ~ 19时10分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时52分 ~ 19时10分]"
-        },
-        {
           "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
           "url": "https://www.cls.cn/detail/2227581",
           "source": "财联社热门",
@@ -94,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时01分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[17时01分 ~ 19时52分]"
         },
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -182,6 +184,18 @@
           "time_info": "[13时54分 ~ 14时16分]"
         },
         {
+          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251212184015295800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时52分]"
+        },
+        {
           "title": "学者：特朗普想在中日博弈中两头渔利",
           "url": "https://www.toutiao.com/trending/7582834886818401855/",
           "source": "今日头条",
@@ -216,17 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 12时22分]"
-        },
-        {
-          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20251212184015295800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -323,8 +326,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时22分 ~ 19时10分]"
+          "appearance_count": 18,
+          "time_info": "[12时22分 ~ 19时52分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -409,8 +412,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时35分 ~ 19时10分]"
+          "appearance_count": 20,
+          "time_info": "[10时35分 ~ 19时52分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -439,11 +442,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 19时52分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -471,7 +475,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
@@ -483,6 +487,39 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时35分 ~ 15时52分]"
+        },
+        {
+          "title": "美股AI股盘前延续跌势 市场分化加剧",
+          "url": "https://flash.jin10.com/detail/20251212191431260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨3.6%，科埃尔矿业上涨3.5%，恩迪沃银业上涨3.4%，西尔弗科普金属上涨2.3%，iShares白银信托上涨1.4%，Global X白银矿业ETF上涨2.6%。",
+          "url": "https://flash.jin10.com/detail/20251212190620848800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美股银矿股盘前普涨，赫克拉矿业上涨3.6%，科埃尔矿业上涨3.5%，恩迪沃银业上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3019902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     }
