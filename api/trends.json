@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:16:47.242081+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2025-12-12T15:02:13.576133+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 15时02分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
           "url": "https://www.zhihu.com/question/1982382027627073644",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 15时02分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 15时02分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 15时02分]"
         },
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -186,8 +187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 15时02分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -200,8 +201,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[11时49分 ~ 15时02分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -211,8 +212,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 15时02分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -284,8 +285,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 15时02分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -312,8 +313,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 15时02分]"
         }
       ]
     }
