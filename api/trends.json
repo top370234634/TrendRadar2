@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T17:01:28.696414+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-12T17:25:26.434453+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             3,
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 17时01分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 17时25分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时35分 ~ 17时01分]"
+          "appearance_count": 14,
+          "time_info": "[10时35分 ~ 17时25分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -93,6 +94,18 @@
           "time_info": "[13时01分 ~ 14时16分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时25分]"
+        },
+        {
           "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
           "url": "https://flash.jin10.com/detail/20251212111451238800",
           "source": "金十数据",
@@ -105,15 +118,16 @@
           "time_info": "[11时49分 ~ 12时22分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
           "source": "凤凰网",
           "ranks": [
-            6
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时25分]"
         },
         {
           "title": "加州州长再批特朗普：最具破坏性总统",
@@ -125,17 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 12时22分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时01分]"
         },
         {
           "title": "特朗普称美对委行动很快将延伸至陆地",
@@ -198,6 +201,18 @@
           "time_info": "[11时49分 ~ 12时22分]"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
           "url": "https://www.zhihu.com/question/1982382778923365984",
           "source": "知乎",
@@ -207,17 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         },
         {
           "title": "美国总统特朗普：关于泰国和柬埔寨问题，我得打几个电话。",
@@ -270,8 +274,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 17时01分]"
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 17时25分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -355,8 +359,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时35分 ~ 17时01分]"
+          "appearance_count": 14,
+          "time_info": "[10时35分 ~ 17时25分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
