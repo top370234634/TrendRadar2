@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:49:18.681099+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2025-12-12T12:22:36.485411+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -20,15 +20,27 @@
           "time_info": "[10时35分 ~ 11时49分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
           "url": "https://flash.jin10.com/detail/20251212111451238800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时22分]"
         },
         {
           "title": "加州州长再批特朗普：最具破坏性总统",
@@ -38,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时22分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -49,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时22分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -60,8 +72,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时22分]"
+        },
+        {
+          "title": "泰国政府官员：泰国代理总理定于周五晚些时候与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20251212110213966800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时35分 ~ 11时49分]"
+          "time_info": "[11时49分 ~ 12时22分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -75,17 +99,6 @@
           "time_info": "10时35分"
         },
         {
-          "title": "泰国政府官员：泰国代理总理定于周五晚些时候与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20251212110213966800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
           "title": "美国总统特朗普：关于泰国和柬埔寨问题，我得打几个电话。",
           "url": "https://flash.jin10.com/detail/20251212093208416800",
           "source": "金十数据",
@@ -95,12 +108,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -110,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时22分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -125,13 +149,25 @@
           "time_info": "10时35分"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时22分]"
+        },
+        {
           "title": "全面解析ChatGPT5.2",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -147,15 +183,15 @@
           "time_info": "10时35分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "12时22分"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -193,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时22分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -221,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时22分]"
         }
       ]
     }
