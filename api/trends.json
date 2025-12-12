@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:19:04.232905+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-12-12T20:51:26.384138+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时20分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[13时20分 ~ 20时51分]"
         },
         {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时52分 ~ 20时19分]"
+          "appearance_count": 13,
+          "time_info": "[15时52分 ~ 20时51分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -58,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时52分 ~ 20时19分]"
+          "appearance_count": 13,
+          "time_info": "[15时52分 ~ 20时51分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -73,8 +73,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时35分 ~ 20时19分]"
+          "appearance_count": 23,
+          "time_info": "[10时35分 ~ 20时51分]"
         },
         {
           "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
@@ -327,8 +327,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时22分 ~ 20时19分]"
+          "appearance_count": 21,
+          "time_info": "[12时22分 ~ 20时51分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -413,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时35分 ~ 20时19分]"
+          "appearance_count": 23,
+          "time_info": "[10时35分 ~ 20时51分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -423,11 +423,12 @@
           "ranks": [
             15,
             10,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 20时51分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
