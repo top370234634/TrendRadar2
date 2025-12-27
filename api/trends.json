@@ -1,112 +1,138 @@
 {
-  "generated_at": "2025-12-26T17:17:56.970598+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2025-12-27T08:59:07.641465+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "美股",
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "专家：特朗普或在2026“压榨”美联储",
-          "url": "https://www.toutiao.com/trending/7587727738132270635/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            20
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
-          "url": "https://wallstreetcn.com/livenews/3026898",
-          "source": "华尔街见闻-快讯",
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
-          "url": "https://flash.jin10.com/detail/20251226075028232800",
-          "source": "金十数据",
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "特朗普人事强震引爆新争议",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
           "ranks": [
-            28
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
         {
-          "title": "通义千问：Qwen Code推出v0.5.0版本",
-          "url": "https://wallstreetcn.com/livenews/3027167",
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "08时59分"
+        },
+        {
+          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
+          "url": "https://wallstreetcn.com/livenews/3027493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3027472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌2.1%，英伟达涨1%",
+          "url": "https://wallstreetcn.com/livenews/3027465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "titles": [
         {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
+          "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
+          "url": "https://news.ifeng.com/c/8pPc87WsghO",
+          "source": "凤凰网",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 17时17分]"
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
