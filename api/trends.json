@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T17:20:03.602558+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-01-02T09:01:38.328857+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,65 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
+          "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
+          "url": "https://wallstreetcn.com/livenews/3029681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
+          "url": "https://flash.jin10.com/detail/20260102083147084800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时01分"
         },
         {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
+          "title": "特朗普宣布从芝加哥等三座城市撤军",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
+          "source": "百度热搜",
           "ranks": [
-            30
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
-        },
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
-          "url": "https://wallstreetcn.com/livenews/3029490",
-          "source": "华尔街见闻-快讯",
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "09时01分"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -51,40 +79,22 @@
           "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 17时20分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
-          "url": "https://wallstreetcn.com/livenews/3029494",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
-          "url": "https://wallstreetcn.com/livenews/3029596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "09时01分"
         }
       ]
     },
@@ -93,16 +103,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
+          "title": "消息称OpenAI大力研发音频AI模型",
+          "url": "https://www.toutiao.com/trending/7589869384954150963/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 17时20分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年美元指数黯然收官！美联储主席动向将左右后市行情",
+          "url": "https://www.cls.cn/detail/2246198",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
