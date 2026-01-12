@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T09:04:51.465183+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-12T17:27:29.868481+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
@@ -30,15 +30,37 @@
           "time_info": "09时04分"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "17时27分"
+        },
+        {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -52,6 +74,18 @@
           "time_info": "09时04分"
         },
         {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 17时27分]"
+        },
+        {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
@@ -61,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -94,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "特朗普对台问题表态引岛内热议",
+          "url": "https://www.douyin.com/hot/2364980",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "关于委内瑞拉，特朗普称，一切进展顺利。 不喜欢埃克森美孚对委内瑞拉问题的回应。 倾向于让埃克森美孚排除在外。",
@@ -198,7 +254,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -208,8 +264,80 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 17时27分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
+          "url": "https://wallstreetcn.com/livenews/3035153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "特朗普呼吁将信用卡利率上限设定为10%，美股银行股盘前下跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260112170610560800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
+          "url": "https://flash.jin10.com/detail/20260112170224589800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
+          "url": "https://flash.jin10.com/detail/20260112170114771800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         }
       ]
     },
