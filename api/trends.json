@@ -1,243 +1,238 @@
 {
-  "generated_at": "2026-01-15T17:23:39.431709+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-16T09:02:37.191011+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 13,
       "titles": [
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260116085218464800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
+          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "09时02分"
         },
         {
-          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
-          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "title": "美国总统特朗普：在埃及、土耳其和卡塔尔的支持下，我们将与哈马斯达成一项全面的非军事化协议，包括交出所有武器并拆除每一条地道。哈马斯必须立即履行其承诺，包括向以色列归还最后一具遗体，并毫不拖延地推进全面非军事化。",
+          "url": "https://flash.jin10.com/detail/20260116085158730800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "09时02分"
         },
         {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "title": "美国总统特朗普：今天与来自委内瑞拉的马查多会面，我深感荣幸。马查多向我赠送了她的诺贝尔和平奖，以表彰我所做的工作。",
+          "url": "https://flash.jin10.com/detail/20260116085137263800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "她给特朗普献了份大礼，诺奖气坏了",
+          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
+          "title": "特朗普：正与哈马斯商讨全面非军事化协议。哈马斯必须立即履行承诺。",
+          "url": "https://wallstreetcn.com/livenews/3038305",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普邀请记者喝放了5天的牛奶",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "据华尔街日报：特朗普于去年秋季下令在加勒比地区增兵，以此向委内瑞拉马杜罗施压。现任和前任国防官员表示，如果华盛顿和伊朗之间爆发冲突，海地的军事集结将限制特朗普的选择。",
-          "url": "https://flash.jin10.com/detail/20260115082045349800",
+          "title": "美国总统特朗普：作为加沙和平委员会主席，我支持一个新任命的巴勒斯坦技术官僚政府——加沙行政全国委员会——在过渡时期治理加沙。",
+          "url": "https://flash.jin10.com/detail/20260116085002026800",
           "source": "金十数据",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "据华尔街日报：白宫一名官员表示，特朗普接受了委内瑞拉反对派领导人马查多赠予他的诺贝尔和平奖奖章。",
+          "url": "https://flash.jin10.com/detail/20260116084412871800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         },
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
+          "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "特朗普参观汽车工厂和民众对骂还竖中指，白宫：回应合适",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32380410",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         },
         {
-          "title": "特朗普暗示暂缓对伊朗采取行动后，油价下跌",
-          "url": "https://flash.jin10.com/detail/20260115074038151800",
+          "title": "消息人士：一个由两党州长组成的团体将于周五与特朗普政府签署一项协议，以遏制覆盖13个州的PJM地区不断上升的电力成本。该协议将对未来的电力拍卖实施为期两年的价格上限，并强制数据中心分担更多扩建的财政负担。",
+          "url": "https://flash.jin10.com/detail/20260116075804814800",
           "source": "金十数据",
           "ranks": [
-            26
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         },
         {
-          "title": "美国参议院以51票对50票否决了阻止特朗普在未经国会授权的情况下进一步对委内瑞拉采取军事行动的动议，副总统万斯投下了打破平局的一票。",
-          "url": "https://flash.jin10.com/detail/20260115073207708800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "欧洲央行银行家发出严厉警告：特朗普对美联储的“战争”威胁全球金融稳定",
-          "url": "https://wallstreetcn.com/livenews/3037397",
+          "title": "特朗普称加沙“和平委员会”已成立 成员名单稍后公布",
+          "url": "https://wallstreetcn.com/livenews/3038275",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
+          "url": "https://wallstreetcn.com/livenews/3038310",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 17时23分]"
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美股盘前，明星科技股走强，阿斯麦(ASML.O)涨超5%、台积电(TSM.N)涨超3%、美光科技(MU.O)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260115170737038800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
-          "url": "https://wallstreetcn.com/livenews/3037834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "09时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
           "source": "知乎",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "UP主大白话解读DeepSeek新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "09时02分"
         }
       ]
     },
@@ -250,11 +245,28 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "被称为开源版 ClaudeCode 的 Opencode 狂飙 Star，其爆火原因和影响是什么？",
+          "url": "https://www.zhihu.com/question/1992268656592299582",
+          "source": "知乎",
+          "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "09时02分"
         }
       ]
     }
