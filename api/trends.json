@@ -1,60 +1,38 @@
 {
-  "generated_at": "2026-02-02T17:40:52.700848+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-02-03T09:15:51.922051+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://news.ifeng.com/c/8qMd74BpD5R",
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
         {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
+          "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
+          "url": "https://wallstreetcn.com/livenews/3048649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
         {
-          "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
@@ -63,30 +41,30 @@
           "time_info": "09时15分"
         },
         {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
         {
-          "title": "爱泼斯坦案多名受害者指控特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=20&Refer=top",
+          "title": "美国法官阻止特朗普政府终止对35万海地人的法律保护。",
+          "url": "https://flash.jin10.com/detail/20260203082904597800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普怒骂格莱美主持人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E9%AA%82%E6%A0%BC%E8%8E%B1%E7%BE%8E%E4%B8%BB%E6%8C%81%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
@@ -99,58 +77,62 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
-          "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
-          "url": "https://flash.jin10.com/detail/20260202171934204800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "油价下跌5%，美股能源公司股价盘前大跌，西方石油(OXY.N)下跌3.1%，康菲石油(COP.N)下跌2.6%，哈利伯顿(HAL.N)下跌4.1%，斯伦贝谢(SLB.N)下跌2.9%，埃克森美孚石油(XOM.N)下跌1.5%，雪佛龙(CVX.N)下跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260202171518672800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3048249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
-            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 17时40分]"
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7602410616837377590/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
@@ -159,28 +141,11 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
-          "source": "华尔街见闻",
+          "title": "【金十数据整理：每日科技要闻速递（2月3日）】人工智能： <br/><span class=\"section-news\">1. SpaceX确认与xAI合并。</span><br/><span class=\"section-news\">2. 甲骨文启动美元债发行，拟筹资至多500亿美元扩建云业务。</span><br/><span class=\"section-news\">3. 消息称马斯克推进SpaceX、xAI合并，最快本周达成协议。</span><br/><span class=\"section-news\">4. 千问将豪掷“30亿”激励，加入腾讯打响的AI用户争夺战。</span><br/><span class=\"section-news\">5. 传OpenAI对英伟达芯片在AI聊天时的响应速度不满意，奥尔特曼驳斥。</span><br/>其他：<br/><span class=\"section-news\">1. 英国航天局负责人将于3月底离任。</span><br/><span class=\"section-news\">2. 美国企业批评波兰拟推数字服务税。</span><br/><span class=\"section-news\">3. 台媒：台积电2nm产能已被预订一空。</span><br/><span class=\"section-news\">4. 三星、SK海力士计划扩大尖端NAND产能。</span><br/><span class=\"section-news\">5. Waymo融资160亿美元，投后估值达1260亿美元。</span><br/><span class=\"section-news\">6. 特斯拉1月法国、挪威市场注册量双双崩跌，分别下跌42%和88%。</span><br/><span class=\"section-news\">7. 国家科教基础设施IP-SAFE项目加速器装置主体安装完成。 </span>",
+          "url": "https://flash.jin10.com/detail/20260203082140150800",
+          "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台湾证交所加权股价指数盘初下跌1.1%至31,712.11点。 新台币兑美元下跌0.3%至31.565。",
-          "url": "https://wallstreetcn.com/livenews/3047913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
