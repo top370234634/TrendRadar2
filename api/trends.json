@@ -1,110 +1,99 @@
 {
-  "generated_at": "2026-03-01T11:39:54.345080+08:00",
+  "generated_at": "2026-03-02T09:13:43.624972+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/livenews/3061056",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "据纽约时报：如果伊朗下一任领导人表现务实，据悉特朗普可能会解除对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20260302090926858800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普：基本摧毁伊朗海军总部",
+          "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
         },
         {
-          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
-          "url": "https://www.zhihu.com/question/2011106123147675013",
-          "source": "知乎",
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
         },
         {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
+          "title": "特朗普称同意与伊朗新领导层对话，伊朗外长称对缓解紧张局势持开放态度，释放了什么信号？双方在盘算什么？",
+          "url": "https://www.zhihu.com/question/2011634675014202149",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
         },
         {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
         },
         {
-          "title": "特朗普：通过外交途径解决伊朗问题仍然可行，而且“现在容易得多”",
-          "url": "https://flash.jin10.com/detail/20260301105134941800",
-          "source": "金十数据",
+          "title": "特朗普称不达目标不停战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
-          "url": "https://wallstreetcn.com/livenews/3061046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国总统特朗普：现在通过外交途径解决伊朗问题要容易得多。伊朗的攻击迄今为止低于我们的预期。",
-          "url": "https://flash.jin10.com/detail/20260301103319728800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
         }
       ]
     },
@@ -117,11 +106,28 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
