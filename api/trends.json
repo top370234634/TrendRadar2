@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-02T17:41:48.869722+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-03-03T09:16:03.870992+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
           "url": "https://wallstreetcn.com/articles/3766494",
@@ -25,42 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
-          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "据纽约时报：如果伊朗下一任领导人表现务实，据悉特朗普可能会解除对伊朗的制裁。",
-          "url": "https://flash.jin10.com/detail/20260302090926858800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普：基本摧毁伊朗海军总部",
-          "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -69,181 +25,153 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时13分 ~ 17时41分]"
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://www.cls.cn/detail/2299355",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特朗普称同意与伊朗新领导层对话，伊朗外长称对缓解紧张局势持开放态度，释放了什么信号？双方在盘算什么？",
-          "url": "https://www.zhihu.com/question/2011634675014202149",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
-          "url": "https://wallstreetcn.com/articles/3766482",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
+          "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
+          "url": "https://flash.jin10.com/detail/20260303084946784800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "09时16分"
         },
         {
-          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "title": "特朗普：“不排除派地面部队”",
+          "url": "https://wallstreetcn.com/livenews/3062262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普：不排除派地面部队",
+          "url": "https://news.ifeng.com/c/8rBa5Cg6WwD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "美媒：特朗普主张对伊朗开战的多项理由不成立",
+          "url": "https://flash.jin10.com/detail/20260303083406982800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
+          "url": "https://wallstreetcn.com/livenews/3062255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "美国与伊朗冲突爆发后，美股邮轮运营商股价盘前走低。嘉年华公司下跌6.9%，皇家加勒比邮轮下跌5.9%，挪威邮轮下跌5.8%。",
-          "url": "https://flash.jin10.com/detail/20260302172340379800",
-          "source": "金十数据",
+          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2300479",
+          "source": "财联社热门",
           "ranks": [
-            27
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "美股盘前：黄金概念股、石油股、军工股上涨，科技股下跌",
-          "url": "https://wallstreetcn.com/livenews/3061741",
+          "title": "高盛交易员认为美股反弹前将经历“痛苦”之路",
+          "url": "https://wallstreetcn.com/livenews/3062256",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克称赞阿里巴巴Qwen模型",
+          "url": "https://wallstreetcn.com/livenews/3062268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
@@ -252,15 +180,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3062254",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "09时16分"
         }
       ]
     }
