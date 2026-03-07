@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-03-06T17:32:37.049342+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-03-07T09:09:24.716663+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
+          "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
+          "url": "https://flash.jin10.com/detail/20260307082138210800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 17时32分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -27,176 +26,124 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 17时32分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "特朗普要求立即赦免以色列总理",
-          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
-          "source": "凤凰网",
+          "title": "美能源部长称将尽快开始护航，特朗普宣称“与伊朗不会达成任何协议”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时09分"
         },
         {
-          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
-          "url": "https://www.cls.cn/detail/2304524",
-          "source": "财联社热门",
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 17时32分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 17时32分]"
-        },
-        {
-          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
-          "url": "https://www.cls.cn/detail/2304532",
-          "source": "财联社热门",
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "09时09分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
+          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时09分"
         },
         {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
+          "title": "特朗普威胁下一个就是古巴",
+          "url": "https://www.douyin.com/hot/2420825",
+          "source": "抖音",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "Anthropic CEO Dario Amodei为一份泄露的批评特朗普政府的备忘录道歉。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3064729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时09分"
         },
         {
-          "title": "据AXIOS网站：Anthropic首席执行官就泄露的批评特朗普的备忘录致歉。",
-          "url": "https://flash.jin10.com/detail/20260306083924046800",
+          "title": "特朗普和美国大军火商开会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%86%9B%E7%81%AB%E5%95%86%E5%BC%80%E4%BC%9A%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260307034359509800",
           "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
+          "url": "https://flash.jin10.com/detail/20260307033923007800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 17时32分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
+          "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
+          "url": "https://wallstreetcn.com/livenews/3065532",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时09分"
         },
         {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "日韩股指跌幅快速收窄，日经225指数现跌0.14%，韩国首尔综合指数跌0.26%。 美股期货小幅走高，标普500指数期货现涨0.2%，纳斯达克100指数期货涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3064716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
-          "url": "https://www.zhihu.com/question/2012928663889338822",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时09分"
         }
       ]
     },
@@ -205,15 +152,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
+          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260307080857687800",
+          "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "09时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
+          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     }
