@@ -1,99 +1,88 @@
 {
-  "generated_at": "2026-03-08T11:29:10.985173+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-03-09T09:14:59.937549+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普：目前无计划在伊朗部署地面部队",
-          "url": "https://news.ifeng.com/c/8rJig12CHog",
-          "source": "凤凰网",
+          "title": "油价飙升 美媒：特朗普正面临越来越多的问题",
+          "url": "https://flash.jin10.com/detail/20260309085313681800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
-          "url": "https://news.ifeng.com/c/8rJ3FnhA3LI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
-          "url": "https://news.ifeng.com/c/8rJ8cbEmAvH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
-          "url": "https://flash.jin10.com/detail/20260308105750349800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "09时14分"
         },
         {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
-          "url": "https://flash.jin10.com/detail/20260308104028991800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "09时14分"
         },
         {
-          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
-          "url": "https://wallstreetcn.com/livenews/3065812",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗高官：特朗普不懂伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%87%82%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "09时14分"
+        },
+        {
+          "title": "评论员谈中国回绝特朗普“G2之邀”",
+          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
+          "url": "https://flash.jin10.com/detail/20260309081624843800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -102,32 +91,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2305872",
-          "source": "财联社热门",
+          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
+          "url": "https://wallstreetcn.com/livenews/3066004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "高盛的判断：Claude Cowork成首个“代理工作流可信案例”，OpenClaw展示未来人机交互方向",
-          "url": "https://wallstreetcn.com/articles/3766958",
-          "source": "华尔街见闻",
+          "title": "台湾证交所加权股价指数跌6%，报31582.25点。 台币兑美元下跌0.5%至31.838。",
+          "url": "https://wallstreetcn.com/livenews/3066020",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     }
