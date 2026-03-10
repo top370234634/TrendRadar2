@@ -1,100 +1,110 @@
 {
-  "generated_at": "2026-03-09T17:42:46.755337+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-03-10T09:09:02.603150+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
-          "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
+          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：普京想帮忙，我说你先结束战争",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "油价飙升 美媒：特朗普正面临越来越多的问题",
-          "url": "https://flash.jin10.com/detail/20260309085313681800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
+          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307815",
           "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "王毅谈特朗普访华",
-          "url": "https://www.douyin.com/hot/2423029",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美媒劝特朗普见好就收",
-          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 17时42分]"
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
+          "url": "https://wallstreetcn.com/articles/3767083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2014356299022821037",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
           "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -103,126 +113,147 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "伊朗高官：特朗普不懂伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%87%82%E4%BC%8A%E6%9C%97",
+          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
+          "url": "https://www.cls.cn/detail/2307809",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "普京与特朗普通电话讨论伊朗局势",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E8%AE%A8%E8%AE%BA%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
           "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "普京与特朗普通电话讨论伊朗局势",
+          "url": "https://www.toutiao.com/trending/7614555226485948458/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "评论员谈中国回绝特朗普“G2之邀”",
-          "url": "https://www.toutiao.com/trending/7614888612266311722/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
-          "url": "https://flash.jin10.com/detail/20260309081624843800",
-          "source": "金十数据",
+          "title": "普京特朗普再通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E9%80%9A%E8%AF%9D%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "美媒使用旧视频掩盖特朗普失礼行为",
-          "url": "https://www.toutiao.com/trending/7615121103565340681/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：如果伊朗做任何事情阻止霍尔木兹海峡的石油流动，他们将会遭到美国二十倍于目前的打击。此外，我们将摧毁那些极易被摧毁的目标，这将使伊朗作为一个国家几乎不可能再重建。",
+          "url": "https://flash.jin10.com/detail/20260310083128181800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普的顾问们敦促他为伊朗问题寻找退路，担心其引发政治上的反弹。",
+          "url": "https://flash.jin10.com/detail/20260310082749756800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "布伦特原油期货跌幅扩大至10%，此前特朗普称美国对伊朗的军事行动“很快”会结束。",
+          "url": "https://wallstreetcn.com/livenews/3066842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "伊朗革命卫队发言人称，美国总统特朗普关于伊朗的言论是“胡说八道”。",
+          "url": "https://flash.jin10.com/detail/20260310081419003800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗伊斯兰革命卫队针对美国总统特朗普的言论表示，决定战争终结的人是我们。",
+          "url": "https://flash.jin10.com/detail/20260310080604375800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时42分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普称美国正在调查伊朗小学遇袭事件",
+          "url": "https://wallstreetcn.com/livenews/3066825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066404",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
-          "url": "https://wallstreetcn.com/articles/3766978",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
-          "url": "https://wallstreetcn.com/livenews/3066004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
         {
-          "title": "Qwen管理调整出炉：周靖人代管千问模型一号位，刘大一恒管理更多团队",
-          "url": "https://wallstreetcn.com/livenews/3066386",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7615396444580646454/",
+          "source": "今日头条",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台湾证交所加权股价指数跌6%，报31582.25点。 台币兑美元下跌0.5%至31.838。",
-          "url": "https://wallstreetcn.com/livenews/3066020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         }
       ]
     }
