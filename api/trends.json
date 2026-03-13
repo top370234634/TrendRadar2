@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-13T09:12:53.481011+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-13T17:34:14.870842+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
         {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
@@ -19,6 +41,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
+          "url": "https://flash.jin10.com/detail/20260313172014745800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "特朗普称伊朗最高领袖穆杰塔巴可能“受伤但仍活着”",
           "url": "https://flash.jin10.com/detail/20260313085750993800",
           "source": "金十数据",
@@ -28,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
+          "url": "https://flash.jin10.com/detail/20260313171234466800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
@@ -99,8 +154,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
