@@ -1,66 +1,99 @@
 {
-  "generated_at": "2026-03-14T09:11:59.011911+08:00",
+  "generated_at": "2026-03-15T11:49:07.569512+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
-          "title": "美以伊战争｜特朗普承认：美以目标可能不太一样",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
+          "url": "https://wallstreetcn.com/articles/3767517",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
-          "url": "https://wallstreetcn.com/articles/3767495",
+          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
+          "url": "https://wallstreetcn.com/articles/3767518",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
+          "url": "https://wallstreetcn.com/articles/3767515",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
+          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
           "source": "凤凰网",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "特朗普承认美以对结束战争目标不同",
-          "url": "https://flash.jin10.com/detail/20260314082854992800",
+          "title": "特朗普称与泽连斯基达成协议要“困难得多”",
+          "url": "https://flash.jin10.com/detail/20260315113816699800",
           "source": "金十数据",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "11时49分"
         },
         {
-          "title": "特朗普承认美以对结束战争目标不同",
-          "url": "https://wallstreetcn.com/livenews/3070060",
+          "title": "特朗普称或再炸几次伊朗哈尔克岛，“只是为了开心”",
+          "url": "https://wallstreetcn.com/livenews/3070215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -70,129 +103,140 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
-          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普被曝拒绝普京提议，反对将伊朗浓缩铀运往俄罗斯",
-          "url": "https://news.ifeng.com/c/8rQgMCfEnth",
-          "source": "凤凰网",
+          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2313097",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "美国总统特朗普： 伊朗曾计划接管整个中东，并彻底消灭以色列。就像伊朗本身一样，这些计划现在已经死了！",
-          "url": "https://flash.jin10.com/detail/20260314082502614800",
-          "source": "金十数据",
+          "title": "伊朗深夜发动2波打击！美方：已有13名美军阵亡！驻日美军“准航母”及海军陆战队被调往中东，特朗普：只要有需要，战争将持续",
+          "url": "https://wallstreetcn.com/articles/3767521",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "特朗普宣布对伊朗石油出口枢纽哈尔克岛发动空袭",
-          "url": "https://wallstreetcn.com/livenews/3070053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
-          "url": "https://wallstreetcn.com/livenews/3070052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国总统特朗普：我非常喜欢墨西哥总统辛鲍姆。 墨西哥在由毒贩们经营。",
-          "url": "https://wallstreetcn.com/livenews/3070050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国特朗普：一切结束后，汽油价格将会暴跌。",
-          "url": "https://wallstreetcn.com/livenews/3070049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "美国总统特朗普：（谈海军护航霍尔木兹海峡）很快就会发生。",
-          "url": "https://flash.jin10.com/detail/20260314082102997800",
-          "source": "金十数据",
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.toutiao.com/trending/7617286579014422067/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "美国总统特朗普：美国和以色列在伊朗问题上的目标可能略有不同。",
-          "url": "https://flash.jin10.com/detail/20260314082050927800",
-          "source": "金十数据",
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32770888",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "以色列总统称特朗普攻击国家主权",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016064576173598421",
+          "source": "知乎",
           "ranks": [
-            27
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "释新闻｜美军空袭伊朗哈尔克岛之后，特朗普会选择占领吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32767317",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32767088",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
+        {
+          "title": "特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://wallstreetcn.com/livenews/3070210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "11时49分"
+        },
+        {
+          "title": "特朗普称已彻底击败伊朗",
+          "url": "https://wallstreetcn.com/livenews/3070208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
+          "url": "https://wallstreetcn.com/livenews/3070207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "美军在霍尔木兹海峡护航？特朗普表态“含糊其辞”",
+          "url": "https://flash.jin10.com/detail/20260315100302629800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰 确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/livenews/3070191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     },
@@ -201,60 +245,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
+        },
         {
-          "title": "DeepSeek V4 为什么还不发布？",
-          "url": "https://www.zhihu.com/question/2014783631814580088",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：目击者称，卡塔尔当局于周六清晨疏散了多哈的Msheireb部分区域，该区域包括政府办公机构和谷歌办公室。",
-          "url": "https://flash.jin10.com/detail/20260314081810552800",
+          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
+          "url": "https://flash.jin10.com/detail/20260315102410675800",
           "source": "金十数据",
           "ranks": [
-            23
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "claude code 比 cursor 好用吗？",
+          "url": "https://www.zhihu.com/question/1993741881734084245",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 11时49分]"
         }
       ]
     }
