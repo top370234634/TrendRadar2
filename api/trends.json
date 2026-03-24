@@ -1,29 +1,42 @@
 {
-  "generated_at": "2026-03-24T09:12:32.535060+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-24T17:50:19.511580+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
+          "url": "https://wallstreetcn.com/articles/3768172",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
+        },
         {
           "title": "【早报】特朗普：美伊或在5天内达成协议；国际油价重挫逾10%",
           "url": "https://www.cls.cn/detail/2322228",
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
-          "url": "https://wallstreetcn.com/articles/3768172",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,15 +54,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
-          "url": "https://wallstreetcn.com/articles/3768191",
-          "source": "华尔街见闻",
+          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
+          "url": "https://www.cls.cn/detail/2322532",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "17时50分"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -63,6 +76,64 @@
           "time_info": "09时12分"
         },
         {
+          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
+          "url": "https://wallstreetcn.com/articles/3768213",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
+          "url": "https://www.cls.cn/detail/2322286",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
+        },
+        {
+          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816091",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
+        },
+        {
+          "title": "“内塔尼亚胡把特朗普忽悠瘸了，没想到穆杰塔巴更反美”",
+          "url": "https://news.ifeng.com/c/8rkdUleaKam",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "特朗普：美伊过去两天已进行对话",
           "url": "https://www.cls.cn/detail/2321845",
           "source": "财联社热门",
@@ -74,26 +145,37 @@
           "time_info": "09时12分"
         },
         {
-          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "特朗普又被“光速打脸”？伊朗议长：并未与美国进行谈判！",
-          "url": "https://www.cls.cn/detail/2322286",
+          "title": "又现内幕交易？特朗普发表缓和言论前 6亿美元原油期货合约被抛售",
+          "url": "https://www.cls.cn/detail/2322371",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "17时50分"
+        },
+        {
+          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -107,6 +189,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "特朗普称与伊朗谈判 有四重目的",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4+%E6%9C%89%E5%9B%9B%E9%87%8D%E7%9B%AE%E7%9A%84",
           "source": "百度热搜",
@@ -118,15 +211,26 @@
           "time_info": "09时12分"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816091",
+          "title": "以官员：特朗普希望与伊朗达成协议 但成功的可能性不大",
+          "url": "https://flash.jin10.com/detail/20260324171901863800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "17时50分"
         },
         {
           "title": "特朗普发文前已泄密？预测市场异常押注直指美伊下周前停火！",
@@ -138,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "翻脸比翻书快！特朗普“口炮”再反转，华尔街为何还信他？",
+          "url": "https://flash.jin10.com/detail/20260324171357159800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "特朗普“五分钟救市”真相：华尔街看穿了他的“战争表演”",
@@ -154,18 +269,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -201,6 +317,28 @@
           "time_info": "09时12分"
         },
         {
+          "title": "美伊和谈信号提振市场，美股期货盘前小幅上涨，现货黄金跌幅收窄，布油仍涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
           "url": "https://www.cls.cn/detail/2321966",
           "source": "财联社热门",
@@ -222,11 +360,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 17时50分]"
         }
       ]
     }
