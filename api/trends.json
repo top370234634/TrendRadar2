@@ -1,99 +1,226 @@
 {
-  "generated_at": "2026-03-29T11:53:41.738248+08:00",
+  "generated_at": "2026-03-30T09:26:38.240870+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
+          "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         },
         {
-          "title": "美国全国爆发反对特朗普政府集会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：上周，我派驻白俄罗斯的特使让另外的250名政治犯获释。",
+          "url": "https://flash.jin10.com/detail/20260330091342898800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         },
         {
-          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
-          "url": "https://wallstreetcn.com/articles/3768645",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         },
         {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
+          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         },
         {
-          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
-          "url": "https://www.zhihu.com/question/2021274346899943516",
-          "source": "知乎",
+          "title": "特朗普：与伊朗“可能”很快达成停火协议",
+          "url": "https://wallstreetcn.com/livenews/3078835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         },
         {
-          "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
-          "url": "https://flash.jin10.com/detail/20260329094312533800",
+          "title": "“希望夺取伊朗石油” 特朗普称可能占领哈尔克岛",
+          "url": "https://wallstreetcn.com/livenews/3078828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "国际油价短线走低，WTI日内涨幅收窄至1.8%，此前涨3%。特朗普谈到霍尔木兹海峡时表示，伊朗允许20艘油轮通行，将从明天早上开始通行；特朗普表示将与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3078827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "50州超3200场抗议！反特朗普运动席卷全美",
+          "url": "https://flash.jin10.com/detail/20260330085430017800",
           "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：伊朗答应了15项要求中的大部分",
+          "url": "https://flash.jin10.com/detail/20260330085349500800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "民调：美选民对特朗普不满意率创新高",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%B0%83%EF%BC%9A%E7%BE%8E%E9%80%89%E6%B0%91%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E6%84%8F%E7%8E%87%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普因伊朗战事陷入四重困境",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%99%B7%E5%85%A5%E5%9B%9B%E9%87%8D%E5%9B%B0%E5%A2%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：最想“拿下伊朗石油”，可能夺取哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260330084350970800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek崩了，约12小时仍未完成修复",
+          "url": "https://wallstreetcn.com/livenews/3078853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.douyin.com/hot/2448162",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek公告服务出现重大中断",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek服务出现重大中断",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek服务出现重大中断",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -102,26 +229,26 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         }
       ]
     },
@@ -130,32 +257,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
-          "url": "https://wallstreetcn.com/articles/3768640",
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "09时26分"
         }
       ]
     }
