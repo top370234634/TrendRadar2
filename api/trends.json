@@ -1,37 +1,14 @@
 {
-  "generated_at": "2026-04-01T18:03:09.133587+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-04-02T09:20:59.960406+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 46,
       "titles": [
         {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 18时03分]"
-        },
-        {
-          "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
-          "url": "https://www.cls.cn/detail/2331621",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：不达成协议也能结束战争",
+          "title": "美以伊战争丨特朗普：要是没达成协议，我就怪万斯",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
@@ -39,364 +16,613 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国官员在讨论油价达到每桶150美元的可能性，美国财政部预计油价将在一段时间内维持在100美元/桶上方，特朗普政府将财政部的预期视为“基线情境”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3080817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 18时03分]"
-        },
-        {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        },
-        {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        },
-        {
-          "title": "战争烂尾，特朗普要跑了",
-          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
-          "url": "https://www.cls.cn/detail/2331376",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
-          "url": "https://v.ifeng.com/c/8rwqUhcgozK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "英国首相回应特朗普退出北约言论",
-          "url": "https://wallstreetcn.com/livenews/3080808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869490",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "欧洲盟友开始“说不”！伊朗战争撕裂北约，特朗普怒斥",
-          "url": "https://flash.jin10.com/detail/20260401090947955800",
+          "title": "美国总统特朗普：伊朗核协议是一项有缺陷的协议，根本就不应该达成。",
+          "url": "https://flash.jin10.com/detail/20260402091108761800",
           "source": "金十数据",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 18时03分]"
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 18时03分]"
-        },
-        {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
+          "title": "标普500指数期货日内跌幅扩大至0.6%。特朗普称，未来两到三周将对伊朗开展极其严厉的打击。",
+          "url": "https://wallstreetcn.com/livenews/3081207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/articles/3769012",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
+          "title": "特朗普谈股市：表现比我预想的要好得多。",
+          "url": "https://wallstreetcn.com/livenews/3081206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
+          "url": "https://wallstreetcn.com/articles/3769022",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：打算纠正前任在伊朗问题上所犯的错误。",
+          "url": "https://flash.jin10.com/detail/20260402091039406800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”",
+          "url": "https://www.cls.cn/detail/2332758",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "美股三大股指集体收涨纳指涨超3.8%",
-          "url": "https://www.toutiao.com/trending/7623563069813165609/",
-          "source": "今日头条",
+          "title": "特朗普：美国汽油充足。 美国在经济方面做好了空前充分的准备。 石油产量很快将大幅提高。 建议其他国家从美国购买石油。 我们几乎不进口经霍尔木兹海峡运输的石油。 一旦冲突结束，海峡自然会开放。 通过霍尔木兹海峡获取石油的国家必须发挥领导作用。",
+          "url": "https://wallstreetcn.com/livenews/3081203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗曾希望生产尽可能多的导弹。",
+          "url": "https://flash.jin10.com/detail/20260402091014188800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "美股暴涨 三大股指悉数收高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8+%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%82%89%E6%95%B0%E6%94%B6%E9%AB%98",
-          "source": "百度热搜",
+          "title": "美国总统特朗普发表讲话称，美国对伊朗战事的核心战略目标“接近完成”。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3081202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要中东的石油，我们是在帮助他们。",
+          "url": "https://flash.jin10.com/detail/20260402091002883800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普谈伊朗：核心战略目标接近完成。 我们将完成这项工作，而且会非常快地完成，我们已经非常接近了。 我们不会让中东盟友受到伤害或遭遇失败。 伊朗袭击油轮导致短期内汽油价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3081201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普就伊朗问题发表讲话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
+          "url": "https://wallstreetcn.com/articles/3768995",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：军事行动极大地阻碍了伊朗获得核武器的能力。",
+          "url": "https://flash.jin10.com/detail/20260402090957697800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "日经225指数涨幅收窄，现货黄金转为下跌，特朗普正在就伊朗战争发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3081200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：部分得益于委内瑞拉的石油和天然气，美国如今完全不再依赖中东。",
+          "url": "https://flash.jin10.com/detail/20260402090926691800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普发表讲话，自行宣称对伊朗战事取得“快速、决定性、压倒性胜利”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3081199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放，但不会对美国开放",
+          "url": "https://wallstreetcn.com/articles/3768990",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "巴菲特卸任后首谈：美股无好标的、苹果卖早了、力挺零通胀目标",
-          "url": "https://flash.jin10.com/detail/20260401092110677800",
+          "title": "英首相回应特朗普：这不是我们的战争，不会卷入其中",
+          "url": "https://news.ifeng.com/c/8ryg5lk6hFZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普将伊朗抗议活动死亡人数修正为45,000人，此前他公布的死亡人数为32,000人。",
+          "url": "https://flash.jin10.com/detail/20260402090856839800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：只要伊朗仍然是支持恐怖主义的国家，就绝不会这样做。",
+          "url": "https://flash.jin10.com/detail/20260402090817732800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "国际油价短线拉升转涨。特朗普称，美国不需要来自中东的石油。",
+          "url": "https://wallstreetcn.com/livenews/3081197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：我们绝不会让伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260402090758934800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普在白宫就伊朗问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3081196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗发射导弹和无人机的能力已大幅削弱。",
+          "url": "https://flash.jin10.com/detail/20260402090702995800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "UP主复现Claude Code代码漏洞",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "time_info": "09时20分"
         },
         {
-          "title": "深度解析Claude源码泄漏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
-          "source": "bilibili 热搜",
+          "title": "特朗普预告全国讲话内容",
+          "url": "https://wallstreetcn.com/livenews/3081194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
         },
         {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 18时03分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
+          "title": "特朗普宣布取得胜利 黄金短线跳水",
+          "url": "https://flash.jin10.com/detail/20260402090642714800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
-          "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
-          "url": "https://wallstreetcn.com/livenews/3080475",
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "提醒：北京时间09:00，特朗普将就伊朗局势发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3081192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要来自中东的石油。",
+          "url": "https://flash.jin10.com/detail/20260402090631208800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗空军已成废墟，伊斯兰革命卫队的指挥控制能力正被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260402090621343800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：美军取得了迅速而决定性的胜利。",
+          "url": "https://flash.jin10.com/detail/20260402090504392800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗海军已不复存在，空军也已沦为废墟。",
+          "url": "https://flash.jin10.com/detail/20260402090438852800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗大部分领导人已经死了。",
+          "url": "https://flash.jin10.com/detail/20260402090431017800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普发表讲话之际 油价走高",
+          "url": "https://flash.jin10.com/detail/20260402090418053800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "加拿大总理卡尼与美国总统特朗普讨论了中东冲突、NASA火箭发射。",
+          "url": "https://wallstreetcn.com/livenews/3081185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国总统特朗普开始就伊朗问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260402090157853800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美国民调：特朗普在经济问题上的支持率创其任内新低",
+          "url": "https://wallstreetcn.com/livenews/3081181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
+        },
+        {
+          "title": "加拿大总理卡尼表示，他与特朗普进行了电话交谈，并讨论了中东冲突。",
+          "url": "https://wallstreetcn.com/livenews/3081179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普即将发表的凯旋演说，将忽略一场70年代式危机的逼近",
+          "url": "https://flash.jin10.com/detail/20260402085325482800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "Claude",
+      "match_count": 6,
       "titles": [
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
+          "title": "深挖Claude Code有何隐藏秘密",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时20分"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "布油日内涨超1%，美股期货转跌，标普500指数期货现跌0.3%。 特朗普称，将绝不让伊朗拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3081198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
