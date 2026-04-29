@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T18:59:24.734163+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-04-29T10:03:10.364681+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
@@ -8,219 +8,147 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
-          "url": "https://www.cls.cn/detail/2357460",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
+          "title": "民调：特朗普支持率跌至任内新低",
+          "url": "https://www.toutiao.com/trending/7633688125021634602/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
-          "url": "https://wallstreetcn.com/livenews/3095346",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.toutiao.com/trending/7633982673785982506/",
+          "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "主持人读枪手宣言让特朗普破防",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
-          "url": "https://wallstreetcn.com/livenews/3095689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
+          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
           "source": "凤凰网",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "特朗普被曝不满意伊朗提案：因为接受就“赢麻”不了",
-          "url": "https://flash.jin10.com/detail/20260428092800071800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
-          "url": "https://wallstreetcn.com/livenews/3095326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2358895",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普再次无视英国王室规矩",
+          "url": "https://www.douyin.com/hot/2482526",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
-          "url": "https://flash.jin10.com/detail/20260428091425679800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357431",
-          "source": "财联社热门",
-          "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
-          "url": "https://www.cls.cn/detail/2357399",
-          "source": "财联社热门",
+          "title": "美国将发行印有特朗普肖像的护照",
+          "url": "https://www.toutiao.com/trending/7633903451563507739/",
+          "source": "今日头条",
           "ranks": [
-            2
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
-          "url": "https://www.cls.cn/detail/2357471",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "通用汽车第一季度调整后每股收益3.70美元，预估2.60美元。 第一季度净销售额和营收436.2亿美元，预估434亿美元。 第一季度调整后息税前利润42.5亿美元，预估30.2亿美元。 第一季度自由现金流12.7亿美元，预估19.2亿美元。 第一季度汽车销量899000辆，预估902126辆。 通用汽车预计全年调整后每股收益11.50美元至13.50美元。 通用汽车预计全年调整后EBIT 135亿美元至155亿美元。 通用汽车预计全年净利润99亿美元至114亿美元，市场预估111.4亿美元。 通用汽车美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3095702",
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3096093",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "10时03分"
         },
         {
-          "title": "Spotify第一季度营收45.3亿欧元，预估45.3亿欧元。 第一季度营业利润7.15亿欧元，同比增长40%。 第一季度每股收益3.45欧元，上年同期1.07欧元。 第一季度月活跃用户数7.61亿，预估7.5923亿。 Spotify预计第二季度营收48.0亿欧元，市场预估47.7亿欧元。 Spotify预计第二季度营业利润6.3亿欧元，市场预估6.743亿欧元。 Spotify预计第二季度毛利率33.1%，市场预估33.1%。 Spotify美股盘前跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3095661",
+          "title": "美国总统特朗普表示，英国国王查尔斯三世同意他有关需确保伊朗永不拥有核武器的观点。",
+          "url": "https://wallstreetcn.com/livenews/3096087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "10时03分"
         },
         {
-          "title": "联合包裹第一季度营收212亿美元，预估209.9亿美元。 第一季度调整后每股收益1.07美元，预估1.03美元。 联合包裹仍预计全年营收约897亿美元，市场预估897.1亿美元。 联合包裹美股盘前跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3095658",
+          "title": "美国财长贝森特在声明中表示，总统特朗普打算提名G·亨特·麦克马斯特二世（G. Hunter McMaster II）担任主管金融市场的助理部长。",
+          "url": "https://wallstreetcn.com/livenews/3096080",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "10时03分"
         }
       ]
     },
@@ -229,87 +157,65 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "报道称OpenAI未达销售目标 相关股票下跌",
-          "url": "https://wallstreetcn.com/livenews/3095675",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
+          "title": "DeepSeekV4Pro优惠延期",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "DeepSeek注册资本提高50%",
-          "url": "https://wallstreetcn.com/livenews/3095322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "DeepSeek还是最强国产AI吗",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         }
       ]
     }
