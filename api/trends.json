@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-12T10:04:24.027905+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-12T19:15:37.404195+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 19时15分]"
+        },
         {
           "title": "特朗普：中国是一个令人惊叹的国家",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
@@ -30,26 +42,50 @@
           "time_info": "10时04分"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "19时15分"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 19时15分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 19时15分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "19时15分"
         },
         {
           "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
@@ -63,15 +99,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：失败的《纽约时报》，这是世界上最糟糕的报纸之一，订阅量每小时都在流失。",
+          "url": "https://flash.jin10.com/detail/20260512184945160800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "19时15分"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -85,6 +121,50 @@
           "time_info": "10时04分"
         },
         {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "特朗普金卡翻车",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -94,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -121,18 +212,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 19时15分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -144,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -166,6 +269,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "美股“融涨”警报拉响！1999年互联网泡沫的剧本又要重演了？",
+          "url": "https://flash.jin10.com/detail/20260512184546356800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "腾讯音乐美股盘前涨超10%，公司第一季度营收79亿元，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3102216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "京东集团第一季度净营收3,156.9亿元人民币，同比增长4.9%，预估3,114.3亿元人民币。 第一季度调整后EBITDA 80.2亿元人民币，同比下降41%，预估44.6亿元人民币。 第一季度调整后每ADS收益 5.12元人民币，预估3.57元人民币。 第一季度经调整EBITDA利润率2.5％，上年同期4.6％，预估1.38％。 京东集团美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3102215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
