@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T10:42:31.274614+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-01T22:54:34.625684+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -23,18 +23,63 @@
           "url": "https://news.ifeng.com/c/8taubWZltKg",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 22时54分]"
+        },
+        {
+          "title": "IBM股价飙升，竟是因特朗普六个月前的点赞视频",
+          "url": "https://flash.jin10.com/detail/20260601223100503800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "22时54分"
+        },
+        {
+          "title": "市场消息：德国总理默茨将召集多国领导人，制定一项旨在争取特朗普支持的北约战略计划。默茨还将于本月主持E5领导人会议，为即将举行的北约峰会做准备。",
+          "url": "https://flash.jin10.com/detail/20260601222916131800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国佛州检察长因安全隐患起诉OpenAI",
+          "url": "https://flash.jin10.com/detail/20260601225003602800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI因人工智能造成的损害被美国佛罗里达州检察长起诉。",
+          "url": "https://flash.jin10.com/detail/20260601224802853800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
@@ -45,6 +90,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股三大指数集体低开，道琼斯指数跌0.30%，标普500指数跌0.19%，纳斯达克综合指数跌0.18%。英伟达开盘上涨3%，ARM上涨12%；高通下跌7.6%，英特尔下跌6.7%，AMD下跌3.8%。IBM上涨8.7%，有望创下历史新高。戴尔涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3112484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     }
