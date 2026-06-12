@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-12T10:36:24.243277+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-12T20:13:40.516618+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 20时13分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 20时13分]"
+        },
         {
           "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
           "url": "https://www.cls.cn/detail/2397775",
@@ -30,33 +54,11 @@
           "time_info": "10时36分"
         },
         {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
           "url": "https://news.ifeng.com/c/8ttDG767op3",
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,6 +87,28 @@
           "time_info": "10时36分"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
           "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
           "source": "凤凰网",
@@ -105,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
@@ -131,6 +166,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2048342346048213458",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "美国财经媒体Semafor：OpenAI创始人奥尔特曼原定于本周末访问阿布扎比，但已取消行程。",
+          "url": "https://flash.jin10.com/detail/20260612195519793800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -142,8 +216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 20时13分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -170,30 +244,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2048342346048213458",
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
           "ranks": [
-            8
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "20时13分"
         }
       ]
     }
