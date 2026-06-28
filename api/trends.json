@@ -1,144 +1,127 @@
 {
-  "generated_at": "2026-06-27T10:12:23.432015+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-28T13:14:44.179718+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 8,
       "titles": [
         {
-          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
         },
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
+          "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
+          "url": "https://flash.jin10.com/detail/20260628122518438800",
+          "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
-          "url": "https://wallstreetcn.com/livenews/3125495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
-          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
+          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
         },
         {
-          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
-          "url": "https://wallstreetcn.com/livenews/3125517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
-          "url": "https://flash.jin10.com/detail/20260627092527227800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
-          "url": "https://wallstreetcn.com/articles/3775589",
-          "source": "华尔街见闻",
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
         },
         {
-          "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
-          "url": "https://www.zhihu.com/question/2054058863066886644",
-          "source": "知乎",
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
         },
         {
-          "title": "伊朗革命卫队称将回应美军袭击 OpenAI推出旗舰大模型GPT‑5.6系列 | 环球市场",
-          "url": "https://www.cls.cn/detail/2410782",
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://wallstreetcn.com/livenews/3125614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://wallstreetcn.com/livenews/3125610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            13
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -147,15 +130,66 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
-          "url": "https://www.zhihu.com/question/2053625552725079594",
-          "source": "知乎",
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下半年美元指数何去何从",
+          "url": "https://wallstreetcn.com/articles/3775680",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     }
