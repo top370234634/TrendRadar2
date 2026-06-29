@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T10:34:08.096384+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-29T21:03:10.502197+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -39,13 +39,101 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特使威特科夫和特朗普女婿库什纳将出席伊朗会议。",
+          "url": "https://wallstreetcn.com/livenews/3126159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普保留必要时使用军事力量的权利。",
+          "url": "https://flash.jin10.com/detail/20260629200925023800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普希望和平进程能够顺利进行。",
+          "url": "https://flash.jin10.com/detail/20260629200829801800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特使威特科夫和特朗普女婿库什纳将出席伊朗会议。",
+          "url": "https://flash.jin10.com/detail/20260629200717302800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "特朗普坚称美伊会谈“将于明日在多哈举行”",
+          "url": "https://wallstreetcn.com/livenews/3126139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已请求召开会议。会议将于明天在多哈举行。",
+          "url": "https://wallstreetcn.com/livenews/3126135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
@@ -56,6 +144,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 10时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         }
       ]
     },
@@ -77,19 +193,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
+          "title": "据Politico：美国加利福尼亚州将以优惠价格扩大Claude人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260629200412428800",
+          "source": "金十数据",
           "ranks": [
-            3
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
