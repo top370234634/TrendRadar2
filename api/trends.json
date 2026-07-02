@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T10:14:11.054997+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-02T19:28:44.913364+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
@@ -19,13 +19,24 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "非农今日公布，美股明日休市",
           "url": "https://flash.jin10.com/detail/20260702094153357800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -33,7 +44,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -56,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
