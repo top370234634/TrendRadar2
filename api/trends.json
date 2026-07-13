@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-12T12:22:58.738198+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-13T09:50:56.445660+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/articles/3776705",
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "09时50分"
         },
         {
-          "title": "曝光特朗普临时换专机，美媒吃传票了",
-          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
+          "title": "苹果指控OpenAI偷窃商业机密",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "美国总统特朗普：那些激进左翼疯子，常被称为“民主笨蛋”，已经失去了对党派的控制。他们正被一群吵闹且毫无魅力的人领导着，这些人完全迷失了方向。",
-          "url": "https://flash.jin10.com/detail/20260712113512191800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "09时50分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
+          "title": "Claude延长Fable5访问",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E5%BB%B6%E9%95%BFFable5%E8%AE%BF%E9%97%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "09时50分"
         }
       ]
     }
