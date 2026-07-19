@@ -1,78 +1,105 @@
 {
-  "generated_at": "2026-07-18T09:28:18.536711+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-19T12:19:50.193937+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
+          "url": "https://flash.jin10.com/detail/20260719112308290800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260719101247637800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "美股半导体指数跌入熊市",
-          "url": "https://www.toutiao.com/trending/7663631586239188521/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "曝特朗普买股票后在社媒发有利信息",
-          "url": "https://www.toutiao.com/trending/7662654350632255514/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "12时19分"
         }
       ]
     }
