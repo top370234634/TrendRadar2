@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T09:48:56.424561+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-24T18:57:24.965584+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 18时57分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -41,6 +41,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
           "url": "https://www.cls.cn/detail/2435694",
           "source": "财联社热门",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -66,7 +88,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -76,19 +98,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 18时57分]"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "18时57分"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 18时57分]"
         },
         {
           "title": "A股油服工程板块高开，中曼石油涨超8%，科力股份涨超5%，潜能恒信、通源石油、博迈科、海油工程、中油工程、中海油服等个股跟涨。据纽约时报：伊朗和伊拉克官员透露，伊朗周四拒绝了美国总统特朗普提出的停火方案，该方案由伊拉克总理转交至德黑兰。",
@@ -100,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -127,7 +172,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
@@ -150,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
@@ -178,6 +234,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     }
