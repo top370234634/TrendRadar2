@@ -1,150 +1,149 @@
 {
-  "generated_at": "2026-07-27T20:15:18.732142+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-07-28T09:41:48.952339+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
+      "keyword_group": "美股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 20时15分]"
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
           "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "3个选项，特朗普举棋未定",
-          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         },
         {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "克里姆林宫发言人佩斯科夫：普京即将举行的会谈不会涉及特朗普，但仍具有重要意义。",
-          "url": "https://flash.jin10.com/detail/20260727194347581800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         },
         {
-          "title": "据以色列第12频道援引消息人士称，内塔尼亚胡将请求特朗普不要向土耳其出售武器系统和F-35战斗机。",
-          "url": "https://flash.jin10.com/detail/20260727194215895800",
-          "source": "金十数据",
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         },
         {
-          "title": "据以色列第12频道援引消息来人士称，内塔尼亚胡将向特朗普提供有关伊朗迈向拥有核武器进程的最新情报信息。",
-          "url": "https://flash.jin10.com/detail/20260727194108715800",
-          "source": "金十数据",
+          "title": "美股芯片股“血流成河”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E2%80%9C%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            15
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：在与特朗普的会议中，将讨论议程上的所有问题，其中伊朗是重中之重。我们的目标明确——确保以色列的安全，增强以色列实力，扩大周围的和平圈。",
-          "url": "https://flash.jin10.com/detail/20260727192920582800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
           "ranks": [
-            11
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         },
         {
-          "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
-          "url": "https://flash.jin10.com/detail/20260727192930998800",
-          "source": "金十数据",
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
           "ranks": [
-            26
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普称，将于美国东部时间周二上午9:30会见乌克兰总统泽连斯基。 特朗普与内塔尼亚胡的会晤将于周二上午11点举行。",
+          "url": "https://wallstreetcn.com/livenews/3140607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
@@ -153,49 +152,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
-          "url": "https://www.zhihu.com/question/2064349598202779354",
-          "source": "知乎",
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            12
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "09时41分"
         }
       ]
     }
