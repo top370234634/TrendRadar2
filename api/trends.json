@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T09:25:53.314197+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T19:02:05.039819+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 19时02分]"
         },
         {
           "title": "特朗普周三会见了沙特国防部长。（AXIOS）",
@@ -30,22 +30,34 @@
           "time_info": "09时25分"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 19时02分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
           "source": "财联社热门",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -77,7 +89,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -100,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "SK海力士美股盘前转涨，此前一度跌近5%，报道称SK集团会长崔泰源买入3600股SK海力士。",
+          "url": "https://wallstreetcn.com/livenews/3142380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -127,18 +150,41 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
           "url": "https://www.zhihu.com/question/2065583157664018461",
           "source": "知乎",
           "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 19时02分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     }
